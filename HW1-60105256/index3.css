@@ -1,0 +1,22 @@
+body
+{
+background-color: gold;
+}
+
+#navbar {width:370px; height:30px;background-color:#03497d; text-align:center; }
+#navbar ul {margin:0;padding:0;}
+#navbar ul li {float:left;}
+#navbar ul li a{
+	color:#fff; background-color:red;
+	display:block;
+	width:100px;
+	text-align:center;
+	padding:0px 10px; 
+	font: bold 12px/30px Tahoma;
+	text-decoration:none;
+	margin-right:3px;
+}
+#navbar ul li a.selected {background-color:red;}
+#navbar ul li a:hover {background-color:black;}
+
+ul li { list-style: none;
