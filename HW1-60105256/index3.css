@@ -19,4 +19,13 @@ background-color: gold;
 #navbar ul li a.selected {background-color:red;}
 #navbar ul li a:hover {background-color:black;}
 
-ul li { list-style: none;
+ul li { list-style: none;}
+
+#seungse
+{
+	margin-left:500px;
+}
+#as
+{
+	margin-left:100px;
+}
